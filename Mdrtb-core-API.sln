@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mdrtb-core-API", "Mdrtb-core-API\Mdrtb-core-API.csproj", "{F2B8D564-750B-47B9-81E3-529C6EE42A59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2B8D564-750B-47B9-81E3-529C6EE42A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B8D564-750B-47B9-81E3-529C6EE42A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B8D564-750B-47B9-81E3-529C6EE42A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B8D564-750B-47B9-81E3-529C6EE42A59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABD5F976-5B29-4FDE-9278-1B449A171DF9}
+	EndGlobalSection
+EndGlobal

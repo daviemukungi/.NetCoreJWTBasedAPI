@@ -1,0 +1,14 @@
+c:\users\davie\source\repos\Mdrtb-core-API\Mdrtb-core-API\bin\Debug\netcoreapp2.1\Mdrtb-core-API.deps.json
+c:\users\davie\source\repos\Mdrtb-core-API\Mdrtb-core-API\bin\Debug\netcoreapp2.1\Mdrtb-core-API.runtimeconfig.json
+c:\users\davie\source\repos\Mdrtb-core-API\Mdrtb-core-API\bin\Debug\netcoreapp2.1\Mdrtb-core-API.runtimeconfig.dev.json
+c:\users\davie\source\repos\Mdrtb-core-API\Mdrtb-core-API\bin\Debug\netcoreapp2.1\Mdrtb-core-API.dll
+c:\users\davie\source\repos\Mdrtb-core-API\Mdrtb-core-API\bin\Debug\netcoreapp2.1\Mdrtb-core-API.pdb
+c:\users\davie\source\repos\Mdrtb-core-API\Mdrtb-core-API\obj\Debug\netcoreapp2.1\Mdrtb-core-API.csprojAssemblyReference.cache
+c:\users\davie\source\repos\Mdrtb-core-API\Mdrtb-core-API\obj\Debug\netcoreapp2.1\Mdrtb-core-API.csproj.CoreCompileInputs.cache
+c:\users\davie\source\repos\Mdrtb-core-API\Mdrtb-core-API\obj\Debug\netcoreapp2.1\Mdrtb-core-API.RazorAssemblyInfo.cache
+c:\users\davie\source\repos\Mdrtb-core-API\Mdrtb-core-API\obj\Debug\netcoreapp2.1\Mdrtb-core-API.RazorAssemblyInfo.cs
+c:\users\davie\source\repos\Mdrtb-core-API\Mdrtb-core-API\obj\Debug\netcoreapp2.1\Mdrtb-core-API.AssemblyInfoInputs.cache
+c:\users\davie\source\repos\Mdrtb-core-API\Mdrtb-core-API\obj\Debug\netcoreapp2.1\Mdrtb-core-API.AssemblyInfo.cs
+c:\users\davie\source\repos\Mdrtb-core-API\Mdrtb-core-API\obj\Debug\netcoreapp2.1\Mdrtb-core-API.RazorTargetAssemblyInfo.cache
+c:\users\davie\source\repos\Mdrtb-core-API\Mdrtb-core-API\obj\Debug\netcoreapp2.1\Mdrtb-core-API.dll
+c:\users\davie\source\repos\Mdrtb-core-API\Mdrtb-core-API\obj\Debug\netcoreapp2.1\Mdrtb-core-API.pdb
